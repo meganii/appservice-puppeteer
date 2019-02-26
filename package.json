@@ -1,0 +1,14 @@
+{
+  "name": "appservice-puppeteer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/meganii/appservice-puppeteer.git",
+  "author": "meganii <yuhei24@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.12.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
